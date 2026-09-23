@@ -1,0 +1,14 @@
+C:\Users\dell\Documents\C#\bin\Debug\net9.0\C#.exe
+C:\Users\dell\Documents\C#\bin\Debug\net9.0\C#.deps.json
+C:\Users\dell\Documents\C#\bin\Debug\net9.0\C#.runtimeconfig.json
+C:\Users\dell\Documents\C#\bin\Debug\net9.0\C#.dll
+C:\Users\dell\Documents\C#\bin\Debug\net9.0\C#.pdb
+C:\Users\dell\Documents\C#\obj\Debug\net9.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Documents\C#\obj\Debug\net9.0\C#.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\C#\obj\Debug\net9.0\C#.AssemblyInfo.cs
+C:\Users\dell\Documents\C#\obj\Debug\net9.0\C#.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\C#\obj\Debug\net9.0\C#.dll
+C:\Users\dell\Documents\C#\obj\Debug\net9.0\refint\C#.dll
+C:\Users\dell\Documents\C#\obj\Debug\net9.0\C#.pdb
+C:\Users\dell\Documents\C#\obj\Debug\net9.0\C#.genruntimeconfig.cache
+C:\Users\dell\Documents\C#\obj\Debug\net9.0\ref\C#.dll
